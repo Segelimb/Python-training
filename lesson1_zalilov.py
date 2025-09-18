@@ -47,6 +47,7 @@
 # print('Чу', 'по', 'кабрас', sep = "", end = "")
 # print('Cу', 'ес', 'твует', sep = "", end = "")
 
+
 # Лабораторная 1
 # input() = A
 # input() = B
@@ -60,3 +61,88 @@
 
 # name = input('Как тебя зовут? ')
 # print('Привет, ', name + "!")
+
+# Example 13
+# word = input("Введите первое слово: ")
+# word_2 = input("Введите второе слово: ")
+# print('"',word,'" - это "', word_2, '"!', sep = "")
+
+# Example 14
+# name = input("Введите ваше имя: ")
+# surname = input("Введите вашу фамилию: ")
+# print(surname, ", ", name, ".", sep = "")
+
+# Example 15
+# word = input("Введите слово: ")
+# print(word)
+# print(word, word)
+# print(word, word, word)
+
+# Example 16
+# year = input("Введите год: ")
+# month = input("Введите месяц: ")
+# day = input("Введите день: ")
+# print(year, month, day, sep = "-")
+# print(year, month, day, sep = "/")
+# print(year, month, day, sep = "")
+
+# Example 17
+# u = input()
+# n = input()
+# g = input()
+# print(u, n, g, sep = ", ")
+
+# Example 18
+# title = input()
+# print("*************")
+# print("*", title, "*")
+# print("*************")
+
+# Example 19
+# print("Загрузка... ", end = "")
+# print("готово!")
+
+# Example 20
+# n = input()
+# t = input()
+# e = input()
+# print("==== ВИЗИТКА ====")
+# print("Имя:", n)
+# print("Телефон:", t)
+# print("Emale:", e)
+# print("=================")
+
+# Example 21
+# u = input()
+# n = input()
+# g = input()
+# print(u, "->", n, "("+ g + ")")
+
+# Example 22
+# city = "Тверь"
+# street = "Ленина"
+# house = "10"
+# print(city, ", ул. ", street + ", ", house, sep = "")
+
+# Example 23
+# c = input()
+# d = input()
+# s = input()
+# print("Курс:", c, "|", "Дисциплина:", d, "|", "Семестр:", s)
+
+# Example 24
+# n = input()
+# u = input()
+# o = input()
+# p = input()
+# print("Уважаемый, ", n, u + "!")
+# print("Должность:", o)
+# print("Организция:", p)
+# print("С уважением,")
+# print("Кафедра программирования")
+
+# Example 25
+# t = input()
+# b = input()
+# p = input()
+# print("Товар:", t, "(Бренд:", b + ") - Цена:", p)
