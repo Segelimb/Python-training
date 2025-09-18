@@ -62,6 +62,11 @@
 # name = input('Как тебя зовут? ')
 # print('Привет, ', name + "!")
 
+# Homework 1
+# name = input("Как тебя зовут? ")
+# group = input("В какой группе ты учишься? ")
+# print("Студент:", name , "| Группа:", group)
+
 # Example 13
 # word = input("Введите первое слово: ")
 # word_2 = input("Введите второе слово: ")
