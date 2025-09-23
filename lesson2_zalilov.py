@@ -1,0 +1,61 @@
+# Example 1
+# string_example = '2'
+# number_example = int(string_example) + 2 * 5
+# print(number_example)
+# print(string_example)
+# print(type(number_example))
+# print(type(string_example))
+
+
+# Example 2
+# number1 = -123.45
+# number2 = 34.34  
+# number3 = int(number1)
+# number4 = int(number2)
+
+# print(number3)
+# print(number4)
+
+
+# Example 3
+# a = 12
+# b = 5
+
+# sum_ = a + b
+# defference = a - b 
+# multiplication = a * b
+# divide = a / b
+# integer_division = a // b
+# reminder = a % b
+# expanent = a ** b
+
+# print(a, '+', b, '=', sum_)
+# print(a, '-', b, '=', defference)
+# print(a, '*', b, '=', multiplication)
+# print(a, '/', b, '=', divide)
+# print(a, '//', b, '=', integer_division)
+# print(a, '%', b, '=', reminder)
+# print(a, '**', b, '=', expanent)
+
+
+# Example 4
+# string1 = 'Люблю Python'
+# lenght1 = len(string1) # Считаем длину строки из переменной string1
+# lenght2 = len('Сколько тут длина!') # Считаем длину строкового литерала
+# print(lenght1)
+# print(lenght2) 
+
+
+# Example 5
+# string1 = 'Аб' + 'ыр' + 'валг'
+# string2 = 'Аб' + 'ыр' + 'валг'
+# string3 = string1 + string2
+# string4 = string3 + '!!'
+# print(string1)
+# print(string2)
+# print(string3)
+# print(string4)
+# print(string4 * 3)
+
+
+# Example 6
