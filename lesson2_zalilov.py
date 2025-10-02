@@ -142,3 +142,19 @@
 
 
 # Example 16
+# name = "* Имя: " + input("Имя: ") + " "
+# post = "* Должность: " + input("Должность: ") + " "
+# org = "* Организация: " + input("Организация: ") + " "
+# if len(name) > len(post):
+#     if len(name) > len(org):
+#         max_len = len(name)
+#     else: max_len = len(org)
+# else:
+#     if len(post) > len(org):
+#         max_len = len(post)
+#     else: max_len = len(org)
+# print("*" * (max_len + 1))
+# print(name.ljust(max_len, " ") + "*")
+# print(post.ljust(max_len, " ") + "*")
+# print(org.ljust(max_len, " ") + "*")
+# print("*" * (max_len + 1))
