@@ -73,4 +73,24 @@
 # print(round(my_float, 2))
 
 
-# Example 
+# Example 7
+# a = float(input("Введите дробное число:"))
+# print(int(a))
+
+
+# Example 8
+# work = input("Введите слово: ")
+# print(work, work, work, work, work)
+# print(work * 5)
+
+
+# Example 9
+# name = input("Имя: ")
+# lastname = input("Фамилия: ")
+# cource = input("Курс: ")
+
+# print("-----")
+# print(f"Имя: {name}\nФамилия: {lastname}\nКурс: {cource}") # f строка
+
+
+# Example 10
