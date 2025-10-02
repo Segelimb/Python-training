@@ -123,3 +123,22 @@
 
 
 # Example 14
+# a = int(input("a = "))
+# b = int(input("b = "))
+# c = int(input("c = "))
+# print(min(a, b, c))
+# print(max(a, b, c))
+# print(abs(min(a, b, c)))
+
+
+# Example 15
+# year = input("Введите год: ")
+# month = input("Введите месяц: ")
+# day = input("Введите день: ")
+# print("Ручная конкатенация: " + day + "." + month + "." + year)
+# print("Ручная конкатенация: " + day, month, year, sep = '.')
+# print(f"Ручная конкатенация: {day}.{month}.{year}")
+
+
+
+# Example 16
