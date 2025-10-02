@@ -109,3 +109,17 @@
 
 
 # Example 12
+# a = input()
+# b = input()
+# print("Конкатенация строк: ", a + b)
+# print("Числовая сумма: ", int(a) + int(b))
+
+
+# Example 13
+# name = input("Имя: ")
+# lang = input("Любимый язык: ")
+# year = input("Год начала изучения: ")
+# print(name,lang,year, sep = "|")
+
+
+# Example 14
