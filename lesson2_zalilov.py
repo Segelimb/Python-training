@@ -94,3 +94,18 @@
 
 
 # Example 10
+# name = input("Введите имя: ")
+# print("ваше имя содержит", len(name), "символов")
+# print(name * len(name))
+
+
+# Example 11
+# year = input("Введите год: ")
+# month = input("Введите месяц: ")
+# day = input("Введите день: ")
+# print(year, month, day, sep = "-")
+# print(year, month, day, sep = "/")
+# print(year, month, day, sep = "")
+
+
+# Example 12
