@@ -158,6 +158,3 @@
 # print(post.ljust(max_len, " ") + "*")
 # print(org.ljust(max_len, " ") + "*")
 # print("*" * (max_len + 1))
-
-
-# Example 16
