@@ -52,3 +52,16 @@
 
 
 # Example 6
+num = int(input("Ведите трехзначное число: "))
+
+d3 = num % 10
+d2 = (num // 10) % 10
+d1 = num // 100
+
+if d1 == d2 or d2 == d3 or d1 == d3:
+    print("Есть одинаковые цифры")
+else:
+    print("Все цифры разные")
+
+
+# Example 7
