@@ -16,4 +16,19 @@
 #     print("Дядя! Ты не прав!")
 
 
+# .lower маленкие буквы
+# у or and no есть приоритеты: 1 - not 2 - and 3 - or
+
+
 # Example 3
+# age = 17
+# with_parents = True
+# blacklist = False
+
+# if not blacklist and (age >= 18 or with_parents):
+#     print("Доступ разрешен")
+# else:
+#     print("Досту разрешен")
+
+
+# Example 4
