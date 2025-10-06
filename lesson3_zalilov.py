@@ -32,3 +32,23 @@
 
 
 # Example 4
+# is_student = True
+# has_card = False
+# is_pensioner = False
+# blocked = False
+
+# if not blocked and ((is_student and has_card) or is_pensioner):
+#     print("Скидка доступна")
+# else:
+#     print("Скидка не доступна")
+
+
+# Example 5
+# number = int(input("Введите число: "))
+# if  9 < number < 100 or -9 < number > -100:
+#     print("Число является двузначным")
+# else:
+#     print("Число является двузначным")
+
+
+# Example 6
