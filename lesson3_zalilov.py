@@ -17,7 +17,7 @@
 
 
 # .lower маленкие буквы
-# у or and no есть приоритеты: 1 - not 2 - and 3 - or
+# у or and not есть приоритеты: 1 - not 2 - and 3 - or
 
 
 # Example 3
