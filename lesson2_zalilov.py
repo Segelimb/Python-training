@@ -141,7 +141,7 @@
 
 
 
-# Example 16
+#  Homework 2
 # name = "* Имя: " + input("Имя: ") + " "
 # post = "* Должность: " + input("Должность: ") + " "
 # org = "* Организация: " + input("Организация: ") + " "
@@ -158,3 +158,6 @@
 # print(post.ljust(max_len, " ") + "*")
 # print(org.ljust(max_len, " ") + "*")
 # print("*" * (max_len + 1))
+
+
+# Example 16
