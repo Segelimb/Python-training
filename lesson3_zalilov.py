@@ -146,3 +146,10 @@
 
 
 # Example 16
+# x = int(input("Введите число: "))
+# if 10 <= x and x <= 20:
+#     print(True)
+# else: print(False)
+
+
+# Example 17
