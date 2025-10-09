@@ -87,3 +87,18 @@
 
 
 # Example 9
+# age = int(input("Введите возраст: "))
+# if age >= 18:
+#     print("Доступ разрешен")
+# else: print("Доступ запрешен")
+
+
+# Example 10
+# a = int(input("Введите первое число: "))
+# b = int(input("Введите второе число: "))
+# if a > b:
+#     print(a)
+# else: print(b)
+
+
+# Example 11
