@@ -139,3 +139,10 @@
 
 
 # Example 15
+# password = input("Введите пароль: ")
+# if password == "Python":
+#     print("Доступ разрешен")
+# else: print("Доступ запрешен")
+
+
+# Example 16
