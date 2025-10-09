@@ -79,3 +79,11 @@
 
 
 # Example 8
+# x = int(input("Введите число: "))
+# if x % 2 == 0:
+#     print("Четное число")
+# else:
+#     print("Число нечетное")
+
+
+# Example 9
