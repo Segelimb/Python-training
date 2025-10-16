@@ -221,3 +221,11 @@
 
 
 # Example 23
+# debts = input("Есть ли не сданные долги(да/нет): ")
+# attendance = int(input("Посещаемость (в процентах): "))
+# if debts == "нет" and attendance > 70:
+#     print("Студент допущен")
+# else: print("Студент не допущен")
+
+
+# Example 24
