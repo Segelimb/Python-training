@@ -210,4 +210,14 @@
 # else: print("Стипендии нет")
 
 
-# Example 
+# Example 22
+# login = input("Введите логин: ")
+# password = input("Введите пароль")
+# if login == "admin" and password == "12345":
+#     print("Доступ разрешен")
+# elif login == "quest" and password == "":
+#     print("Гостевой оступ разрешен")
+# else: print("Доступ запрешен")
+
+
+# Example 23
