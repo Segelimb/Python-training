@@ -240,3 +240,30 @@
 
 
 # Example 25
+# a = int(input("Введите первое число: "))
+# b = int(input("Второе первое число: "))
+# c = int(input("Третье первое число: "))
+# if b - a == c - b:
+#     print(f"{a}, {b}, {c} образуют арифметическую прогрессию")
+# else: print(f"{a}, {b}, {c} не образуют арифметическую прогрессию")
+
+
+# Example 26
+# age = int(input("Введите возраст: "))
+# maintainers = input("Есть ли сопровождающие(да/нет): ")
+# tickets = input("Есть билет (да/нет): ")
+# if age < 12 and maintainers == "нет":
+#     print("Нет сопровождающих")
+# elif 18 > age > 12 and tickets == "нет":
+#     print("Нужен билет")
+
+
+# Example 27
+# age = int(input("ВВедите возрвст"))
+# employee = input("Сотрудник компании(да/нет): ")
+# if age < 18 or age > 65 or employee == "да":
+#     print("проезд бесплатный")
+# else: print("проезд платный")
+
+
+# Example 28
