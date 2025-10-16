@@ -228,4 +228,14 @@
 # else: print("Студент не допущен")
 
 
+#.isdigit()  Проверяет во всей строке есть ли цифры
+
+
 # Example 24
+# password = input("Введите пароль: ")
+# if len(password) > 6 and (any(ch.isdigit() for ch in password)) and not password == "password":
+#     print("Пароль надежный")
+# else: print("Пароль не надежный")
+
+
+# Example 25
