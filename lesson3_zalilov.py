@@ -203,3 +203,11 @@
 
 
 # Example 21
+# average_point = float(input("Введите средний балл: "))
+# project = input("Есть ли проекты(да/нет): ")
+# if average_point >= 4.5 or (average_point >= 4.0 and project == "да"):
+#     print("Стипендия есть")
+# else: print("Стипендии нет")
+
+
+# Example 
