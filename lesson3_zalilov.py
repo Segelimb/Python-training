@@ -259,7 +259,7 @@
 
 
 # Example 27
-# age = int(input("ВВедите возрвст"))
+# age = int(input("Введите возрвст"))
 # employee = input("Сотрудник компании(да/нет): ")
 # if age < 18 or age > 65 or employee == "да":
 #     print("проезд бесплатный")
@@ -267,3 +267,13 @@
 
 
 # Example 28
+# age = int(input("Введите возрвст"))
+# debts = input("Есть ли задолжность(да/нет): ")
+# tickets =  input("Есть читательский билет (да/нет): ")
+# if age > 12 and tickets == "да" and debts == "нет":
+#     print("Читатель может взять книгу")
+# else: print("Читатель не может взять книгу")
+
+
+
+# Example 29
