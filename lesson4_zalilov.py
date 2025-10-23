@@ -88,3 +88,100 @@
 
 
 # Example 15
+# for i in range(1, 13):
+#     if i % 2 == 0 and i % 3 == 0:
+#         print(f"{i} - четное и кратно 3")
+#     elif i % 2 == 0:
+#         print(f"{i} - только четное")
+#     elif i % 3 == 0: 
+#         print(f"{i} - только кратно 3")
+
+
+# Example 16
+# a = 0
+# for i in range(1, 11):
+#     if i % 2 != 0:
+#         a = a + i
+# print(f"Сумма нечетных чисел = {a}")
+
+
+# Example 17
+# for i in range(0, 10):
+#     if i <= 3 or i >= 7:
+#         print(f"{i} - вне диапозонпа 3-7")
+
+
+# Example 18
+# for i in range(3):
+#     age = int(input("Введите возраст: "))
+#     if age > 18 and age < 60:
+#         print(f"{age} - подходит")
+#     elif age < 18:
+#         print(f"{age} - слишком молод")
+#     elif age > 60:
+#         print(f"{age} - пенсионный возраст")
+
+
+# Example 19
+# num = int(input("Введите число: "))
+# for i in range(1, 11):
+#     print(f"{num} × {i} = {num * i}")
+
+
+# Example 20
+# for i in range(0,51,5):
+#     if i % 10 != 0:
+#         print(f"{i} - подходит")
+
+
+# Example 21
+# a = 0
+# for i in range(1, 5):
+#     a = a + (i ** 2)
+# print(f"Сумма квадратов = {a}")
+
+
+# Example 22
+# for i in range(3):
+#     name = input("Введите имя пользователя: ").strip().lower()
+#     if name == "admin":
+#         print(f"Доступ разрешен")
+#     else: print(f"Пользователь {name} - доступ запрещён")
+
+
+# Example 23
+# num = int(input("Введите N: "))
+# a = 0
+# for i in range(1, num + 1):
+#     a = a + i
+# print(f"Сумма чисел от 1 до {num} равна {a}")
+
+
+# Example 16
+# for i in range(10, 0, -1):
+#     print(f"Обратный отсчёт:{i}")
+
+
+# Example 17
+# for i in range(1,21):
+#     if i > 10 and i % 2 == 0:
+#         print(f"{i} - подходит")
+
+
+# Example 18
+# x = int(input("Введите X: "))
+# for i in range(1, 11):
+#     if i < x:
+#         print(f"{i} не больше {x}")
+#     else: print(f"{i} больше {x}")
+
+
+# Example 19
+# a = 0
+# for i in range(5):
+#     num = int(input("Введитте число: "))
+#     if num > 0: a = a + num
+# print(f"Сумма положительных чисел = {a}")
+
+
+# Example 20
