@@ -88,4 +88,3 @@
 
 
 # Example 15
-n = int(input())

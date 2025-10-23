@@ -279,3 +279,23 @@
 
 
 # Example 29
+# course = int(input("Введите курс: "))
+# average = float(input("Введите средний балл: "))
+# contest = input("Есть ли победы в конкурсах (да/нет): ").strip().lower()
+
+# if course >= 3 and (average >= 4.3 or contest == "да"):
+#     print("Студент допущен к стажировке")
+# else: print("Студент не допущен")
+
+
+# Example 30
+# day = int(input("Введите день: "))
+# month = int(input("Введите месяц: "))
+# if month < 1 or month > 12:
+#     print("Такой даты не существует")
+# elif day < 1 or (month in [1,3,5,7,8,10,12] and day > 31) or (month in [4,6,9,11] and day > 30) or (month == 2 and day > 29):
+#     print("Такой даты не существует")
+# else: print(f"Дата {day}.{month} существует")
+
+
+# Example 31
