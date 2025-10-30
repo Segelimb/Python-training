@@ -185,3 +185,51 @@
 
 
 # Example 20
+# for i in range(-5,6):
+#     if i >= 0 and i <= 3:
+#         print(f"{i} - Нормальная температура")
+#     else: print(f"{i} - вне нормы")
+
+
+# Example 21
+# a = 0
+# for i in range(4):
+#     num = int(input("Введите число: "))
+#     if num > 0: a = a + 1
+# print(f"Положительных чисел: {a}")
+
+
+# Example 22
+# for i in range(1, 13):
+#     if i % 2 == 0 or i % 3 == 0:
+#         print(f"{i} - делится на 2 или на 3")
+
+
+# Example 23
+# for i in range(1, 10):
+#     if not(i % 2 == 0) and not(i % 3 == 0):
+#         print(f"{i} - делится на 2 или на 3")
+
+
+# Example 24
+# word = "Python"
+# for i in range(len(word)):
+#     print(f"{i + 1}.Буква {word[i]}")
+
+
+# Example 25
+# a = []
+# for i in range(5):
+#     num = int(input("Введитте число: "))
+#     a.append(num)
+# print(f"Наибольшее число: {max(a)}")
+
+# num_one = int(input("Введитте число: "))
+# for i in range(4):
+#     num = int(input("Введитте число: "))
+#     if num > num_one:
+#         num_one = num
+# print(f"Наибольшее число: {num_one}")
+
+
+# Example 26
