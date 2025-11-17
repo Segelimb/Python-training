@@ -233,3 +233,139 @@
 
 
 # Example 26
+n = int(input("Введите число n: "))
+# i = 1
+# sum = 0
+# while i <= n:
+#     if i%2 != 0:
+#         sum += i
+#     i += 1
+# print(n)
+
+
+# Example 27
+# n = int(input("Введите число n: "))
+# i = 0
+# while 2 ** i < n:
+#     i += 1
+# if 2 ** i == n:
+#     print("True")
+# else: print("false")
+
+
+# Example 28
+# num = int(input("Введите число (0 - для завершения): "))
+# a = 0
+# b = 0
+# while num != 0:
+#     num = int(input("Введите следующее число (0 - для завершения): "))
+#     if num > 0:
+#         a += 1
+#     elif num < 0:
+#         b += 1
+# print (a,b)
+
+
+# Example 29
+# str = input("Введите число: ")
+# i = len(str) - 1
+# while i >= 0:
+#     print(str[i])
+#     i = i - 1
+
+
+# Example 30
+# str = input("Введите число: ")
+# i = 0
+# while i < len(str):
+#     print(str[i])
+#     i = i + 1
+
+
+# Example 31
+# num1 = int(input("Введите первое число: "))
+# num2 = int(input("Введите второе число: "))
+# i = max(num1, num2)
+# while num1 % i != 0 or num2 % i != 0:
+#     i = i - 1
+# print(i)
+
+
+# Example 32
+# num = int(input("Введите число: "))
+# i = 1
+# a = 0
+# while i <= num:
+#     if num % i:
+#         a += 1
+#     i += 1
+# print(a)
+
+
+# Example 33
+# num = int(input("Введите число: "))
+# i = 2
+# while i < num:
+#     if num % i == 0:
+#         print("False")
+#         break
+#     else: i += 1
+# if i == num: print("True")
+
+
+# Example 34
+# n = int(input("Введите число: "))
+# original = n
+# reversed_num = 0
+# while n > 0:
+#     digit = n % 10
+#     reversed_num = reversed_num * 10 + digit
+#     n //= 10
+# if reversed_num == original:
+#     print(True)
+# else:
+#     print(False)
+
+
+# Example 35
+# num = 7
+# count = 0
+# num_p = 0
+# while num_p != num:
+#     num_p = int(input("Введите число: "))
+#     if num_p < num:
+#         print("Введеное число меньше")
+#     elif num_p > num:
+#         print("Введеное число больше")
+#     count += 1
+# print(count)
+
+
+# Example 36
+# fuel = 50
+# expenditure = 3
+# km = 0
+# while fuel > 0:
+#     fuel -= expenditure
+#     km += 1
+# print(km)
+
+
+# Example 37
+# num = int(input("Введите число: "))
+# num_d = num
+# d = 1
+# while num_d > 9:
+#     num_d = num_d // 10
+#     d += 1
+# rezult = 1
+# t = 1
+# while num > 9:
+#     for i in range(d-1):
+#         rezult *= (num // (10 ** (i + 1))) % 10
+#     num = rezult
+#     rezult = 1
+#     print(f"Шаг {t}: {num}")
+#     t += 1  
+# print(f"Итоговое устойчивое значение: {num}")
+# print(f"Количество шагов: {t}")
