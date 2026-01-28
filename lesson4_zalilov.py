@@ -16,7 +16,7 @@
 #     print(i)
 
 
-# renge(start, stop, step)          начало, конец, шаг
+# range(start, stop, step)          начало, конец, шаг
 
 
 # Example 4
